@@ -31,8 +31,7 @@ O sistema analisa o estoque atual e sugere quais produtos fabricar para obter o 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/factory-production-optimizer.git
-cd factory-production-optimizer
+git clone https://github.com/PamellaBelo/Teste-Full-Stack.git
 ```
 
 ---
