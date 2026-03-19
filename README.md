@@ -115,9 +115,14 @@ npm test
 O front-end suporta **Português (PT-BR)** e **Inglês (EN)**.  
 O idioma pode ser alternado pelo botão na parte inferior da sidebar.
 
-<img width="1799" height="997" alt="image" src="https://github.com/user-attachments/assets/0cab9878-2582-446f-ab72-c6b69ec628e3" />
-<img width="1804" height="998" alt="image" src="https://github.com/user-attachments/assets/6e44246e-4c21-4cf1-96a9-332b36505f7a" />
-<img width="1797" height="994" alt="image" src="https://github.com/user-attachments/assets/aa083e73-edad-4623-b449-b4f92468aed1" />
+<img width="1799" height="988" alt="image" src="https://github.com/user-attachments/assets/05c613e1-1ac5-4996-9cbe-712c0ec8b73e" />
+<img width="1803" height="999" alt="image" src="https://github.com/user-attachments/assets/07886f07-4c2a-4a48-be98-71391f38a9ec" />
+
+<img width="1801" height="998" alt="image" src="https://github.com/user-attachments/assets/61dfc8e9-52ce-4f38-aa5f-a3ed7803486e" />
+<img width="1803" height="997" alt="image" src="https://github.com/user-attachments/assets/92e1b583-0df5-4319-9ab7-b725b644f823" />
+
+<img width="1806" height="997" alt="image" src="https://github.com/user-attachments/assets/a41e446d-ba5e-4296-84a4-b9a405e797f2" />
+
 
 
 
