@@ -36,7 +36,7 @@
           </thead>
           <tbody>
             <tr v-if="!result && !loading" class="empty-row">
-              <td colspan="4">{{ $t('optimizer.run') }} →</td>
+              <td colspan="4"></td>
             </tr>
             <tr v-else-if="loading" class="empty-row">
               <td colspan="4">{{ $t('optimizer.running') }}</td>

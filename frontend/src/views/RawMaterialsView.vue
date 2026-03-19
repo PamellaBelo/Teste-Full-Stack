@@ -2,7 +2,6 @@
   <div>
     <div class="page-header">
       <h1 class="page-title">{{ $t('rawMaterial.title') }} <span>_</span></h1>
-      <p class="page-subtitle">{{ $t('common.search') }} · CRUD</p>
     </div>
 
     <!-- Toolbar -->
